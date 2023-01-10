@@ -1,0 +1,8 @@
+[[29-Mar-2022 02:21:27 America/Boise] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home1/fittolif/public_html/contact.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/fittolif/public_html/contact.php on line 3
+[29-Mar-2022 02:37:10 America/Boise] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home1/fittolif/public_html/contact.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/fittolif/public_html/contact.php on line 3
